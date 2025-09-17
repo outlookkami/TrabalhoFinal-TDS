@@ -65,3 +65,9 @@ body {
   text-align: left;
   padding-left: 28px;
 }
+a{
+  color:lightblue;
+  border-radius: 1px;
+  border: 5px solid lightblue;
+  border-color: lightblue;
+}
